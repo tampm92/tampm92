@@ -1,4 +1,4 @@
-name: Latest-blog-post-workflow
+name: update-latest-blog-post
 on:
   workflow_dispatch: # Run workflow manually, through the Github Actions Workflow page directly
 jobs:
