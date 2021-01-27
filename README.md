@@ -56,6 +56,11 @@
 ### **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup firebase for Next JS](http://tampm.com/blog/next-js/setup-firebase-for-next-js)
+- [NextJS import SVG](http://tampm.com/blog/next-js/next-js-import-svg)
+- [Next-Auth](http://tampm.com/blog/next-js/next-auth)
+- [Dynamic import - Next JS](http://tampm.com/blog/next-js/dynamic-import-next-js)
+- [Test page](http://tampm.com/blog/next-js/test-page)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
