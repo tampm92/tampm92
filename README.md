@@ -32,8 +32,6 @@
   <img alt="gmail" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
 </a>
 
-<br/>
-
 ### **🔥 Languages and Tools:**
 
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />][website]
@@ -52,6 +50,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
+<br/>
 <br/>
 
 ### **📕 Latest Blog Posts**
