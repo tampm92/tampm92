@@ -60,7 +60,7 @@
 - [NextJS import SVG](http://tampm.com/blog/next-js/next-js-import-svg)
 - [Next-Auth](http://tampm.com/blog/next-js/next-auth)
 - [Dynamic import - Next JS](http://tampm.com/blog/next-js/dynamic-import-next-js)
-- [Test page](http://tampm.com/blog/next-js/test-page)
+- [NextJS - TP setup](http://tampm.com/blog/next-js/next-js-tp-setup)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
