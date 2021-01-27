@@ -4,9 +4,9 @@
   <a href="https://tampm.com" target="_blank">
     <img alt="gmail" height="25px" src="https://img.shields.io/website?label=tampm.com&style=for-the-badge&url=https%3A%2F%2Ftampm.com" />
   </a>
-  <!-- <a href="https://github.com/tampm92" target="_blank">
+  <a href="https://github.com/tampm92" target="_blank">
     <img alt="visitor badge" height="25px" src="https://visitor-badge.glitch.me/badge?page_id=tampm92.tampm92" />
-  </a> -->
+  </a>
 </p>
 
 ## <h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 10px; font-size: 20px">I'm a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam</h1>
@@ -22,20 +22,16 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything, I am happy to help
 
-<br/>
-
 ### **🤙 How to reach me:**
 
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />][skype]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+<a href="skype:toilatoi911992?chat" target="_blank">
+  <img alt="gmail" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
+</a>
 
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />](skype:toilatoi911992?chat)
-[Skype](skype:toilatoi911992?call)
-
-<br/>
 <br/>
 
 ### **🔥 Languages and Tools:**
@@ -57,14 +53,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br/>
-<br/>
 
 ### **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
 <br/>
 
 <details>
