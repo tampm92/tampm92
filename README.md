@@ -33,6 +33,7 @@
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />](skype:toilatoi911992?chat)
+[Skype](skype:toilatoi911992?call)
 
 <br/>
 <br/>
